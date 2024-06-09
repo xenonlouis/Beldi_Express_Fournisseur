@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "36303587956",
+    "project_id": "livreurapp-36428",
+    "storage_bucket": "livreurapp-36428.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36303587956:android:850870bf7d3b9f8a2e5f21",
+        "android_client_info": {
+          "package_name": "com.example.app_livreur"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrNlsamK0NA-U7Fnbw6O-PLrJTv4dcopM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36303587956:android:a49f8af63ed30d682e5f21",
+        "android_client_info": {
+          "package_name": "com.example.dish_list"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrNlsamK0NA-U7Fnbw6O-PLrJTv4dcopM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
